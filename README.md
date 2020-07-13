@@ -1,5 +1,6 @@
-### Hi there 👋
 ![img](https://i.imgur.com/10ypYxI.png)
+
+I am a highly self-motivated, self-taught Full Stack Web Developer { in making } who spends most of the time building applications, continually learning and keeping up with the latest web technologies. Had a stellar customer service record and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field. 
 
 <!--
 **sasigit7/sasigit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
