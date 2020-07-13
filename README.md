@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Imgur](https://i.imgur.com/10ypYxI.png)
+![img](https://imgur.com/10ypYxI)
 
 <!--
 **sasigit7/sasigit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
