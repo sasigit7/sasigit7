@@ -8,12 +8,24 @@ I am a highly self-motivated, self-taught Full Stack Web Developer **{ in making
 ![img](https://i.imgur.com/4M4zcsq.png)
 
 >Secondly, I am involved in two successful Chingu voyages with each Voyage lasted for 6 weeks. [Chingu](https://www.chingu.io/) is a global collaboration platform and coding-cohort generator. Participants build a project in a remote team and level-up with the technical and soft skills required in a professional software job.
-* I Built a simple Google Fonts clone using HTML, CSS, and JavaScript, with a strong focus on Web Content Accessibility Guidelines (WCAG) as a solo project for entry to Chingu. 
-* On my first voyage, Collaborated with an international four-person team to build a fully functional clone of the Fortnite landing page using HTML, CSS, and JavaScript, with an emphasis on mobile-first responsiveness. 
-Here is the Project Link [Fortnite](https://fortniteclone.netlify.com/) and Certificate ![img](https://i.imgur.com/mpJ980L.png)
+
+* I Built a simple Google Fonts clone using HTML, CSS, and JavaScript, with a strong focus on Web Content Accessibility Guidelines (WCAG) as a solo project for entry to Chingu.
+ 
+<p><img align="left" width="455" height="455" src="https://i.imgur.com/mpJ980L.png"> 
+  * On my first voyage, Collaborated with an international four-person team to build a fully functional clone of the Fortnite landing page using HTML, CSS, and JavaScript, with an emphasis on mobile-first responsiveness. 
+  
+  Here is the Project Link [Fortnite](https://fortniteclone.netlify.com/).
+</p>
+
+<p><img align="right" width="455" height="455" src="https://i.imgur.com/3mQL29b.jpg">
 * On my second voyage, Collaborated with an international two-person team to build a fully functional clone of the Giphy landing page using HTML, CSS, and API functionality. 
-Here is the Project Link [Giphy](https://chingu-voyages.github.io/v15-geckos-team-03/index.html) and Certificate ![img](https://i.imgur.com/3mQL29b.jpg)
+  
+  Here is the Project Link [Giphy](https://chingu-voyages.github.io/v15-geckos-team-03/index.html).
+</p> 
+
+ 
 * In both voyages, I took part in weekly audio call team meetings, daily conversations, and pair programming to solve problems, co-ordinate code, and plan improvements.
+
 
 > In addition to the above remote developer experience, I have a solid educational foundation with a Computer Science Engineering degree and Post Graduate Diploma in Management studies. I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
 
