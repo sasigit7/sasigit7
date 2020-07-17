@@ -11,14 +11,18 @@ I am a highly self-motivated, self-taught Full Stack Web Developer **{ in making
 
 * I Built a simple Google Fonts clone using HTML, CSS, and JavaScript, with a strong focus on Web Content Accessibility Guidelines (WCAG) as a solo project for entry to Chingu.
  
-<p><img align="left" width="455" height="455" src="https://i.imgur.com/mpJ980L.png"> 
+<p align="center">
+ <img align="left" width="200" height="200" src="https://i.imgur.com/mpJ980L.png"> 
   * On my first voyage, Collaborated with an international four-person team to build a fully functional clone of the Fortnite landing page using HTML, CSS, and JavaScript, with an emphasis on mobile-first responsiveness. 
+  
   
   Here is the Project Link [Fortnite](https://fortniteclone.netlify.com/).
 </p>
 
-<p><img align="right" width="455" height="455" src="https://i.imgur.com/3mQL29b.jpg">
+<p align="center">
+ <img align="right" width="200" height="200" src="https://i.imgur.com/3mQL29b.jpg">
 * On my second voyage, Collaborated with an international two-person team to build a fully functional clone of the Giphy landing page using HTML, CSS, and API functionality. 
+  
   
   Here is the Project Link [Giphy](https://chingu-voyages.github.io/v15-geckos-team-03/index.html).
 </p> 
