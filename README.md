@@ -1,4 +1,7 @@
-![img](https://i.imgur.com/eTDQTkh.png)
+<img src="https://i.imgur.com/eTDQTkh.png" width="1000" height="300">
+
+
+
 
 I am a highly self-motivated, self-taught Full Stack Web Developer **{ in making }** who spends most of the time building applications, continually learning and keeping up with the latest web technologies. Had a stellar customer service record and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
 
