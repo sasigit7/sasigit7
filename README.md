@@ -1,6 +1,24 @@
 <img src="https://i.imgur.com/eTDQTkh.png" width="1000" height="300">
 
-I am a highly self-motivated, self-taught Full Stack Web Developer **{ in making }** who spends most of the time building applications, continually learning and keeping up with the latest web technologies. Had a stellar customer service record and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
+In a Nut〔〔 Shell 〕〕........Who Am I ❓
+➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <in making 🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Having a stellar customer service experience and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
+
+〈〈 💻 Tech Skills / 〉〉
+⌲
+Languages I know ➡️ HTML5, CSS3, Bootstrap4, JavaScript Inc ES6, JQuery, React, Node, PHP, MySQL, Web Design, UI/UX and Wordpress.
+⌲⌲
+Developer Tools I Use ➡️ Git, NPM, Yarn, Babel, Webpack, Gulp.js, Figma and Command Line Terminal.
+⌲⌲⌲
+Editors I Code In ➡️ Visual Studio Code, Atom, Brackets.
+
+{ { Soft Skills } }
+Emotional Empathy, Communication Abilities, Time Management, Teamwork & Leadership Traits.
+
+(( Experience ))
+Over a decade experience in Customer Service Field, Gaming and Sports.
+
+My Current Mantra: Keep Coding & Carry On Coding
+
 
 # Remote Developer Experience:  
 >Firstly, I enrolled in a Web Development Experience program from [Green Rock Consulting](https://www.greenrockconsulting.co.uk/index.php). They provided me an opportunity to work with a Web and Mobile app development company called [Bune Bear](http://bunebear.com). A senior Web developer alloted me number of tasks over the period of three months which I completed successfully. This is the first time, I attempted to learn Back-end development that too remotely under a Senior Web Developer Supervision.  
