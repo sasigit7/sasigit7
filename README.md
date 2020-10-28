@@ -3,18 +3,28 @@
 In a Nut〔〔 Shell 〕〕........Who Am I ❓
 ➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <in making 🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Having a stellar customer service experience and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
 
-〈〈 💻 Tech Skills / 〉〉
-⌲
-Languages I know ➡️ HTML5, CSS3, Bootstrap4, JavaScript Inc ES6, JQuery, React, Node, PHP, MySQL, Web Design, UI/UX and Wordpress.
-⌲⌲
-Developer Tools I Use ➡️ Git, NPM, Yarn, Babel, Webpack, Gulp.js, Figma and Command Line Terminal.
-⌲⌲⌲
-Editors I Code In ➡️ Visual Studio Code, Atom, Brackets.
+⌲⌲⌲⌲〈〈 💻 Tech Skills / 〉〉
+<details>
+ <summary>Web Technologies I Know</summary> 
+ <p>HTML5, CSS3, Bootstrap4, JavaScript Inc ES6, JQuery, React, Node, PHP, MySQL, Web Design, UI/UX and Wordpress.</p>
+</details>
 
-{ { Soft Skills } }
+<details>
+ <summary>Developer Tools I Use</summary>
+ <p>Git, NPM, Yarn, Babel, Webpack, Gulp.js, Figma for Interactive Design and Command Line Terminal etc.</p>
+</details>
+
+<details>
+ <summary>Editors I Code In</summary>
+  <p>Visual Studio Code, Atom, Brackets.</p>
+ </details>
+  
+⌲⌲⌲⌲ { { Soft Skills } }
+
 Emotional Empathy, Communication Abilities, Time Management, Teamwork & Leadership Traits.
 
-(( Experience ))
+⌲⌲⌲⌲ (( Experience ))
+
 Over a decade experience in Customer Service Field, Gaming and Sports.
 
 My Current Mantra: Keep Coding & Carry On Coding
