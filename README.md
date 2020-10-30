@@ -5,18 +5,34 @@ In a Nut〔〔 Shell 〕〕........Who Am I ❓
 
 ⌲⌲⌲⌲〈〈 💻 Tech Skills / 〉〉
 <details>
- <summary>Web Technologies I Know</summary> 
- <p>HTML5, CSS3, Bootstrap4, JavaScript Inc ES6, JQuery, React, Node, PHP, MySQL, Web Design, UI/UX and Wordpress.</p>
+ <summary><strong>Web Technologies I Know</strong>👨‍💻</summary> 
+ <p><em>HTML5, CSS3, Bootstrap4, JavaScript Inc ES6, JQuery, React, Node, PHP, MySQL, Web Design, UI/UX and Wordpress.</em></p>
 </details>
 
 <details>
- <summary>Developer Tools I Use</summary>
- <p>Git, NPM, Yarn, Babel, Webpack, Gulp.js, Figma for Interactive Design and Command Line Terminal etc.</p>
+ <summary><strong>Developer Tools I Use</strong>:hammer_and_wrench:</summary>
+ <p><em>Git, NPM, Yarn, Babel, Webpack, Gulp.js, Figma for Interactive Design and Command Line Terminal etc.</em></p>
 </details>
 
 <details>
- <summary>Editors I Code In</summary>
-  <p>Visual Studio Code, Atom, Brackets.</p>
+ <summary><strong>Editors I Code In</strong></summary>
+  <p><em>Visual Studio Code, Atom, Brackets.</em></p>
+ </details>
+ 
+ <details>
+ <summary><strong>Websites I created</strong></summary>
+ <ul>
+  <li><a href="http://ajaxistic.co.uk/">Ajaxistic</a></li>
+  <li><a href="https://fortniteclone.netlify.com/">Fortnite Clone</a></li>
+  <li><a href="https://www.giphy.com/">Giphy Clone</a></li>
+  <li><a href="https://taxi-service.netlify.app/index.html">Taxi Service Company</a></li>
+  <li><a href="https://sasigit7.github.io/omnifood/">Omnifood-Food Ordering Website</a></li>
+  <li><a href="https://sasigit7.github.io/ColmarAcademy/">Colmar Academy</a></li>
+  <li><a href="https://fcc-project-technical-documentation.netlify.app/">Technical Documentation</a></li>
+  <li><a href="https://chingupreworktier2v15.netlify.app/">Google Fonts</a></li>
+  <li><a href="https://sasigit7.github.io/Pac-Man/">Pac-Man Game</a></li>
+  <li><a href="https://github.com/sasigit7?tab=repositories">Check My Github Repos for more projects</a></li>
+ </ul>
  </details>
   
 ⌲⌲⌲⌲ { { Soft Skills } }
