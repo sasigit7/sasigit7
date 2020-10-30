@@ -24,14 +24,14 @@ In a Nut〔〔 Shell 〕〕........Who Am I ❓
  <ul>
   <li><a href="http://ajaxistic.co.uk/">Ajaxistic</a></li>
   <li><a href="https://fortniteclone.netlify.com/">Fortnite Clone</a></li>
-  <li><a href="https://www.giphy.com/">Giphy Clone</a></li>
+  <li><a href="https://chingu-voyages.github.io/v15-geckos-team-03/index.html">Giphy Clone</a></li>
   <li><a href="https://taxi-service.netlify.app/index.html">Taxi Service Company</a></li>
   <li><a href="https://sasigit7.github.io/omnifood/">Omnifood-Food Ordering Website</a></li>
   <li><a href="https://sasigit7.github.io/ColmarAcademy/">Colmar Academy</a></li>
   <li><a href="https://fcc-project-technical-documentation.netlify.app/">Technical Documentation</a></li>
   <li><a href="https://chingupreworktier2v15.netlify.app/">Google Fonts</a></li>
   <li><a href="https://sasigit7.github.io/Pac-Man/">Pac-Man Game</a></li>
-  <li><a href="https://github.com/sasigit7?tab=repositories">Check My Github Repos for more projects</a></li>
+  <li><a href="https://github.com/sasigit7?tab=repositories">Check My Github Repos for many more projects</a></li>
  </ul>
  </details>
   
