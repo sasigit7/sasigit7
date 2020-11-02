@@ -45,28 +45,6 @@ Over a decade experience in Customer Service Field, Gaming and Sports.
 
 My Current Mantra: Keep Coding & Carry On Coding
 
-
-# Remote Developer Experience:  
->Firstly, I enrolled in a Web Development Experience program from [Green Rock Consulting](https://www.greenrockconsulting.co.uk/index.php). They provided me an opportunity to work with a Web and Mobile app development company called [Bune Bear](http://bunebear.com). A senior Web developer alloted me number of tasks over the period of three months which I completed successfully. This is the first time, I attempted to learn Back-end development that too remotely under a Senior Web Developer Supervision.  
-### Senior Web Developer Reference: 
-![img](https://i.imgur.com/4M4zcsq.png)
-
->Secondly, I am involved in two successful Chingu voyages with each Voyage lasted for 6 weeks. [Chingu](https://www.chingu.io/) is a global collaboration platform and coding-cohort generator. Participants build a project in a remote team and level-up with the technical and soft skills required in a professional software job.
-
-* I Built a simple Google Fonts clone using HTML, CSS, and JavaScript, with a strong focus on Web Content Accessibility Guidelines (WCAG) as a solo project for entry to Chingu.
- 
-<p>
-<img align="left" width="200" height="200" src="https://i.imgur.com/mpJ980L.png"> 
-* On my first voyage, Collaborated with an international four-person team to build a fully functional clone of the Fortnite landing page using HTML, CSS, and JavaScript, with an emphasis on mobile-first responsiveness. Here is the Project Link [Fortnite](https://fortniteclone.netlify.com/).
-</p>
-
-<p>
-<img align="right" width="200" height="200" src="https://i.imgur.com/3mQL29b.jpg">
-* On my second voyage, Collaborated with an international two-person team to build a fully functional clone of the Giphy landing page using HTML, CSS, and API functionality. Here is the Project Link [Giphy](https://chingu-voyages.github.io/v15-geckos-team-03/index.html).
-</p> 
- 
-* In both voyages, I took part in weekly audio call team meetings, daily conversations, and pair programming to solve problems, co-ordinate code, and plan improvements.
-
 > In addition to the above remote developer experience, I have a solid educational foundation with a Computer Science Engineering degree and Post Graduate Diploma in Management studies. I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
 
 >I maintain projects on my GitHub account at <a href="https://github.com/sasigit7"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> and regularly logs my coding journey on 
