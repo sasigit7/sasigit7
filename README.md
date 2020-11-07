@@ -1,9 +1,9 @@
 <img src="https://i.imgur.com/eTDQTkh.png" width="1000" height="300">
 
-In a Nut〔〔 Shell 〕〕........Who Am I ❓
 ➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <in making 🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Having a stellar customer service experience and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
 
 ⌲⌲⌲⌲〈〈 💻 Tech Skills / 〉〉
+<h4>Microsoft Certified in HTML, CSS & JavaScript✌️</h4>
 <details>
  <summary><strong>Web Technologies I Know</strong>👨‍💻</summary> 
  <p><em>HTML5, CSS3, Bootstrap4, JavaScript Inc ES6, JQuery, React, Node, PHP, MySQL, Web Design, UI/UX and Wordpress.</em></p>
@@ -45,7 +45,7 @@ Over a decade experience in Customer Service Field, Gaming and Sports.
 
 My Current Mantra: Keep Coding & Carry On Coding
 
-> In addition to the above remote developer experience, I have a solid educational foundation with a Computer Science Engineering degree and Post Graduate Diploma in Management studies. I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
+> In addition to the above remote developer experience, I have an education in Computer Science Engineering and P.G Diploma in Management Studies. I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
 
 >I maintain projects on my GitHub account at <a href="https://github.com/sasigit7"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> and regularly logs my coding journey on 
 <a href="https://twitter.com/ShashiWebDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> and on professional network <a href="https://www.linkedin.com/in/shashi-m-0a3b8244/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>. 
