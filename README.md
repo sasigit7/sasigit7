@@ -31,6 +31,9 @@
   <li><a href="https://fcc-project-technical-documentation.netlify.app/">Technical Documentation</a></li>
   <li><a href="https://chingupreworktier2v15.netlify.app/">Google Fonts</a></li>
   <li><a href="https://sasigit7.github.io/Pac-Man/">Pac-Man Game</a></li>
+  <li><a href="https://shashwebdev.com/#/">Personal Portfolio</a></li>
+  <li><a href="https://e-commerce.shashwebdev.com/">eCommerce Website</a></li>
+  <li><a href="https://my-blog.shashwebdev.com/">My Dev Blog</a></li>
   <li><a href="https://github.com/sasigit7?tab=repositories">Check My Github Repos for many more projects</a></li>
  </ul>
  </details>
