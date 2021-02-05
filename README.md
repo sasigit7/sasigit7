@@ -22,7 +22,11 @@
  <details>
  <summary><strong>Websites I created</strong></summary>
  <ul>
-  <li><a href="http://ajaxistic.co.uk/">Ajaxistic</a></li>
+  
+  <li><a href="https://shashwebdev.com/">Personal Portfolio</a></li>
+  <li><a href="https://thegazetteer.shashwebdev.com/">The Gazetteer</a></li>
+  <li><a href="https://thegazetteer.co.uk/">Gazetteer</a></li>
+  <li><a href="https://ajaxistic.shashwebdev.com/">Ajaxistic</a></li>
   <li><a href="https://fortniteclone.netlify.com/">Fortnite Clone</a></li>
   <li><a href="https://chingu-voyages.github.io/v15-geckos-team-03/index.html">Giphy Clone</a></li>
   <li><a href="https://taxi-service.netlify.app/index.html">Taxi Service Company</a></li>
@@ -31,9 +35,12 @@
   <li><a href="https://fcc-project-technical-documentation.netlify.app/">Technical Documentation</a></li>
   <li><a href="https://chingupreworktier2v15.netlify.app/">Google Fonts</a></li>
   <li><a href="https://sasigit7.github.io/Pac-Man/">Pac-Man Game</a></li>
-  <li><a href="https://shashwebdev.com/#/">Personal Portfolio</a></li>
   <li><a href="https://e-commerce.shashwebdev.com/">eCommerce Website</a></li>
   <li><a href="https://my-blog.shashwebdev.com/">My Dev Blog</a></li>
+  <li><a href="https://guess-my-num.netlify.app/">Guess My Number</a></li>
+  <li><a href="https://two-players-dice-game.netlify.app/">Dice Game</a></li>
+  <li><a href="https://render-json-locally.netlify.app/">JSON Project</a></li>
+  <li><a href="https://modal-popup.netlify.app/">Modal Popup</a></li>
   <li><a href="https://github.com/sasigit7?tab=repositories">Check My Github Repos for many more projects</a></li>
  </ul>
  </details>
@@ -61,8 +68,7 @@ On top of that, not a day goes by without me thinking about web development, rea
 If you have any questions or would like to further discuss my qualifications, please do not hesitate to contact me. Thank you for your time and consideration.
 
 Sincerely,
-
-Mr Shashidar Mandalozu
+Shash
 
 <!--
 **sasigit7/sasigit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
