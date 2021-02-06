@@ -53,9 +53,7 @@ Emotional Empathy, Communication Abilities, Time Management, Teamwork & Leadersh
 
 Over a decade experience in Customer Service Field, Gaming and Sports.
 
-My Current Mantra: Keep Coding & Carry On Coding
-
-> In addition to the above remote developer experience, I have an education in Computer Science Engineering and P.G Diploma in Management Studies. I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
+> In addition to the excellent soft skills, I acquired extensive web development experience through e-learning, internships and by collaborating with other developers.  I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
 
 >I maintain projects on my GitHub account at <a href="https://github.com/sasigit7"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> and regularly logs my coding journey on 
 <a href="https://twitter.com/ShashiWebDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> and on professional network <a href="https://www.linkedin.com/in/shashi-m-0a3b8244/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>. 
@@ -69,6 +67,7 @@ If you have any questions or would like to further discuss my qualifications, pl
 
 Sincerely,
 Shash
+
 
 <!--
 **sasigit7/sasigit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
