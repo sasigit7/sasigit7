@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/eTDQTkh.png" width="1000" height="300">
 
-➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <in making 🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Having a stellar customer service experience and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
+➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Having a stellar customer service experience and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
 
 ⌲⌲⌲⌲〈〈 💻 Tech Skills / 〉〉
 <h4>Microsoft Certified in HTML, CSS & JavaScript✌️</h4>
@@ -51,9 +51,9 @@ Emotional Empathy, Communication Abilities, Time Management, Teamwork & Leadersh
 
 ⌲⌲⌲⌲ (( Experience ))
 
-Over a decade experience in Customer Service Field, Gaming and Sports.
+> Over a decade experience in Customer Service Field, Gaming and Sports.
 
-> In addition to the excellent soft skills, I acquired extensive web development experience through e-learning, internships and by collaborating with other developers.  I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node, Express, PHP, SQL, Command line and Git, etc. at a comfortable level. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
+> In addition to the excellent soft skills and managerial skills at my current job, I also acquired extensive web development experience through e-learning, internships and by collaborating with other developers on multiple projects.  I offer multiple relevant technical and interpersonal skills. For instance, I'm able to use HTML, CSS, Bootstrap, JavaScript, jQuery, React, PHP, SQL, Command line and Git, etc. in my projects. I am an excellent team player with strong attention to detail and accuracy and also had an important ability to work and perform well under pressure.
 
 >I maintain projects on my GitHub account at <a href="https://github.com/sasigit7"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> and regularly logs my coding journey on 
 <a href="https://twitter.com/ShashiWebDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> and on professional network <a href="https://www.linkedin.com/in/shashi-m-0a3b8244/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>. 
@@ -63,7 +63,7 @@ On top of that, not a day goes by without me thinking about web development, rea
 [![Shashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasigit7&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/sasigit7)
   <p>Visit <a href="https://sourcerer.io/sasigit7" target="_blank">Sourcerer</a> for in depth analysis of my Github history</p>
 
-If you have any questions or would like to further discuss my qualifications, please do not hesitate to contact me. Thank you for your time and consideration.
+Please do not hesitate to contact me for web development oppurtunities. Thank you for your time and consideration.
 
 Sincerely,
 Shash
