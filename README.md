@@ -41,6 +41,8 @@
   <li><a href="https://two-players-dice-game.netlify.app/">Dice Game</a></li>
   <li><a href="https://render-json-locally.netlify.app/">JSON Project</a></li>
   <li><a href="https://modal-popup.netlify.app/">Modal Popup</a></li>
+  <li><a href="https://projects-gallery.netlify.app/">Projects Gallery</a></li>
+  <li><a href="https://two-players-dice-game.netlify.app/">Pig Game</a></li>
   <li><a href="https://github.com/sasigit7?tab=repositories">Check My Github Repos for many more projects</a></li>
  </ul>
  </details>
