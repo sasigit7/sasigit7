@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/eTDQTkh.png" width="1000" height="300">
 
-➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Having a stellar customer service experience and superb work ethic over a decade in betting and gambling industry, now trying to establish and challenge myself to learn to code for a better, satisfying and rewarding career in the web development field.
+➡️ I am a highly self-motivated🔥, self-taught Full Stack Web Developer <🧑‍💻/> who spends most of the time ⏰ building web applications, continually learning 🙇‍♂️ and keeping up with the latest web technologies. Currently working on Gutenberg React blocks for my company. 
 
 ⌲⌲⌲⌲〈〈 💻 Tech Skills / 〉〉
 <h4>Microsoft Certified in HTML, CSS & JavaScript✌️</h4>
