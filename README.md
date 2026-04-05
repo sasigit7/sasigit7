@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Salesforce+Engineer;Lightning+Platform+Developer;Freelance+Web+Developer;Apex+%26+LWC+Specialist;Building+things+on+%26+off+the+platform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+(Salesforce+Platform);Lightning+Platform+Developer;Freelance+Web+Developer;Apex+%26+LWC+Specialist;Building+things+on+%26+off+the+platform" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Greater_Manchester-informational?style=flat&color=grey" />
   &nbsp;
-  <img src="https://img.shields.io/badge/💼_Salesforce_Engineer_@_Vitality-blue?style=flat" />
+  <img src="https://img.shields.io/badge/💼_Software_Engineer_@_Vitality-blue?style=flat" />
   &nbsp;
   <img src="https://img.shields.io/badge/🌐_Available_for_Freelance-success?style=flat" />
 </p>
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I started as a self-taught Full Stack Web Developer, earning Microsoft certifications and building everything from e-commerce sites to business Wordpress websites. Today I work as a **Salesforce Engineer at Vitality**, specialising in **Apex, Lightning Web Components, and CRM platform development** — with 100+ Trailhead badges and Ranger rank to show for it. I previously volunteered as a **Salesforce instructor at CodeYourFuture**, giving back to the community that helped shape me. Outside my day job, I run **[Digitalancer Hub](https://digitalancerhub.xyz/)** — taking on freelance web projects and building things like [MiniAppsPro](https://miniappspro.com/) and [Baron Auto's](https://baronautos.co.uk/). Always learning. Always shipping.
+I started as a self-taught Full Stack Web Developer, earning Microsoft certifications and building everything from e-commerce sites to business Wordpress websites. Today I work as a **Software Engineer at Vitality**, building on the **Salesforce Platform** — specialising in **Apex, Lightning Web Components, and CRM development** — with 100+ Trailhead badges and Ranger rank to show for it. I previously volunteered as a **Salesforce instructor at CodeYourFuture**, giving back to the community that helped shape me. Outside my day job, I run **[Digitalancer Hub](https://digitalancerhub.xyz/)** — taking on freelance web projects and building things like [MiniAppsPro](https://miniappspro.com/) and [Baron Auto's](https://baronautos.co.uk/). Always learning. Always shipping.
 
 ---
 
@@ -125,7 +125,7 @@ I started as a self-taught Full Stack Web Developer, earning Microsoft certifica
   <a href="https://twitter.com/ShashiWebDev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:sasiwebdev7@gmail.com">
+  <a href="mailto:sasilancer7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://dev.to/sasigit7">
