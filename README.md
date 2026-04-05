@@ -134,6 +134,9 @@ I started as a self-taught Full Stack Web Developer, earning Microsoft certifica
   <a href="https://digitalancerhub.xyz/">
     <img src="https://img.shields.io/badge/Digitalancer_Hub-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+  <a href="https://salesforce.com/trailblazer/shasm2">
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">Thanks for stopping by! ⚡</p>
