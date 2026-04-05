@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I started as a self-taught Full Stack Web Developer, earning Microsoft certifications and building everything from e-commerce sites to business Wordpress websites. Today I work as a **Software Engineer at Vitality**, building on the **Salesforce Platform** — specialising in **Apex, Lightning Web Components, and CRM development** — with 100+ Trailhead badges and Ranger rank to show for it. I previously volunteered as a **Salesforce instructor at CodeYourFuture**, giving back to the community that helped shape me. Outside my day job, I run **[Digitalancer Hub](https://digitalancerhub.xyz/)** — taking on freelance web projects and building things like [MiniAppsPro](https://miniappspro.com/) and [Baron Auto's](https://baronautos.co.uk/). Always learning. Always shipping.
+I started as a self-taught Full Stack Web Developer, earning Microsoft certifications and building everything from e-commerce sites to business Wordpress websites. Today I work as a **Software Engineer at Vitality**, building on the **Salesforce Platform** — specialising in **Apex, Lightning Web Components, and CRM development** — with 300+ Trailhead badges, 5 Salesforce certifications and Triple Ranger rank to show for it. I previously volunteered as a **Salesforce instructor at CodeYourFuture**, giving back to the community that helped shape me. Outside my day job, I run **[Digitalancer Hub](https://digitalancerhub.xyz/)** — taking on freelance web projects and building things like [MiniAppsPro](https://miniappspro.com/) and [Baron Auto's](https://baronautos.co.uk/). Always learning. Always shipping.
 
 ---
 
