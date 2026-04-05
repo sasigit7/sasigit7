@@ -101,9 +101,9 @@ I started as a self-taught Full Stack Web Developer, earning Microsoft certifica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasigit7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://readme-stats-rose-rho.vercel.app/api?username=sasigit7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasigit7&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://readme-stats-rose-rho.vercel.app/api/top-langs/?username=sasigit7&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
